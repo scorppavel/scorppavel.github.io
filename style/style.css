@@ -42,6 +42,38 @@ table {
 	border-spacing: 0;
 }
 
-.wrapper {
-   width: 1251px; 
+a, a:hover, a:visited {
+    color: inherit;
+    text-decoration: none;
 }
+
+.wrapper {
+   width: 1251px;
+   margin: 0 auto;
+   padding-top: 48px; 
+}
+
+.header {
+    display: flex;
+}
+
+.header-img {
+	width: 53px;
+	height: 53px;
+	padding-right: 57px;
+}
+
+.menu-item {
+	padding-top: 13px;
+	text-transform: uppercase;
+}
+
+ul {
+	display: flex;
+	gap: 53px;
+}
+
+.menu-item-list_header {
+	color: #606060;
+}
+
