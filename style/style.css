@@ -75,5 +75,19 @@ ul {
 
 .menu-item-list_header {
 	color: #606060;
+	font: 17.83px "inter", medium;
+	margin-right: 117px;	
 }
 
+input {
+	width: 350px;
+	height: 57px;
+	background-color: #EDEDED;
+	border-radius: 15px;
+	border: none;
+	margin-right: 30px;
+	margin-top: -150px;
+	font: 15px "Popins", medium;
+	color: #C2C3CB;
+	text-align: center;
+}
